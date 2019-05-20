@@ -11,3 +11,4 @@ Submitting the same or substantially similar work in multiple courses, either in
 I acknowledge that afailure to abide by NYU Stern Honor Code will result in a failing grade for the project and course. 
 
 # Project Description 
+This project will explore how pricing differs across Airbnbs and the influences it has on demand. We will also explore the seasonal pattern of airbnb prices in New York and the effects it has on travel. As an example, in New York City, Airbnb prices across different neighbourhood groups such as Manhattan, Brooklyn, Queens, Staten Island, and the Bronx might differ. We can look at how pricing is varies across these different neighbourhood groups in terms of the number of the listings available and property type available.
